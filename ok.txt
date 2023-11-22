@@ -1,0 +1,3 @@
+Ceci est un fichier de test.
+Il contient quelques lignes de texte.
+Rien de trop compliqué, juste assez pour vérifier la lecture.

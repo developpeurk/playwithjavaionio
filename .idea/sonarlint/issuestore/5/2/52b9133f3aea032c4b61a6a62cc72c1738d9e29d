@@ -1,0 +1,6 @@
+
+e
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÜÀ‘Í8–ô×µ¿1
+F	java:S106"+Replace this use of System.out by a logger.(¤ÀÒ@8á»×µ¿1
+L	java:S106"+Replace this use of System.out by a logger.(•¹¦½ùÿÿÿÿ8â»×µ¿1
+G	java:S106"+Replace this use of System.err by a logger.(¯çÌ8ã»×µ¿1
